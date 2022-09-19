@@ -9,3 +9,4 @@
 - HTML
 - Bootstrap 4
 - Vanilla JS
+- Fun translations API (minions translator API)
